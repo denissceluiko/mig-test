@@ -9,6 +9,8 @@
         <div class="gap-4 md:columns-2 sm:columns-1">
             <x-input.text name="ean13" required="true" label="EAN13 kods" />
             <x-input.text name="stock" required="true" label="Atlikums" />
+        </div>
+        <div class="gap-4 md:columns-2 sm:columns-1">
             <x-input.text name="cost" required="true" label="Pašizmaksa" />
             <x-input.text name="price" required="true" label="Cena ar PVN" />
         </div>
