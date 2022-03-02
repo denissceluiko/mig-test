@@ -1,1 +1,1 @@
-<a href="?{{ $column }}={{ $order }}">{{ $chevron }}</a>
+<a href="?{{ $column }}={{ $order }}" class="text-blue-600">{{ $chevron }}</a>
